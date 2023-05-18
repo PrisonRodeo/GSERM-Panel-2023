@@ -1,0 +1,49 @@
+﻿Order,justice,Nominee,CJ,SenateVote,Ideology,Qualifications,President,Year
+1,78,Hugo Black,,67 – 18,0.875,0.16,Franklin D. Roosevelt (Democrat),1937
+2,79,Stanley F. Reed,,Voice Vote,0.725,0.875,Franklin D. Roosevelt (Democrat),1938
+3,80,Felix Frankfurter,,Voice Vote,0.665,0.965,Franklin D. Roosevelt (Democrat),1939
+4,81,William O. Douglas,,62 – 4,0.73,0.82,Franklin D. Roosevelt (Democrat),1939
+5,82,Frank Murphy,,Voice Vote,1,0.65,Franklin D. Roosevelt (Democrat),1940
+6,74,Harlan F. Stone,CJ,Voice Vote,0.3,1,Franklin D. Roosevelt (Democrat),1941
+7,83,James F. Byrnes,,Voice Vote,0.33,0.8,Franklin D. Roosevelt (Democrat),1941
+8,84,Robert H. Jackson,,Voice Vote,1,0.915,Franklin D. Roosevelt (Democrat),1941
+9,85,Wiley B. Rutledge,,Voice Vote,1,1,Franklin D. Roosevelt (Democrat),1943
+10,86,Harold H. Burton,,Voice Vote,0.28,0.93,Harry S. Truman (Democrat),1945
+11,87,Fred M. Vinson,CJ,Voice Vote,0.75,0.785,Harry S. Truman (Democrat),1946
+12,88,Tom C. Clark,,73 – 8,0.5,0.125,Harry S. Truman (Democrat),1949
+13,89,Sherman Minton,,48 – 16,0.72,0.355,Harry S. Truman (Democrat),1949
+14,90,Earl Warren,CJ,Voice Vote,0.75,0.855,Dwight D. Eisenhower (Republican),1953
+15,91,John M. Harlan II,,71 – 11,0.875,0.75,Dwight D. Eisenhower (Republican),1955
+16,92,"William J. Brennan, Jr.",,Voice Vote,1,1,Dwight D. Eisenhower (Republican),1956
+17,93,Charles E. Whittaker,,Voice Vote,0.5,1,Dwight D. Eisenhower (Republican),1957
+18,94,Potter Stewart,,70 – 17,0.75,1,Dwight D. Eisenhower (Republican),1958
+19,95,Byron White,,Voice Vote,0.5,0.5,John F. Kennedy (Democrat),1962
+20,96,Arthur J. Goldberg,,Voice Vote,0.75,0.915,Lyndon B. Johnson (Democrat),1965
+21,97,Abe Fortas,,Voice Vote,1,1,Lyndon B. Johnson (Democrat),1965
+22,98,Thurgood Marshall,,69 – 11,1,0.835,Lyndon B. Johnson (Democrat),1967
+23,,Abe Fortas,CJ,45 – 43 *,0.845,0.635,Lyndon B. Johnson (Democrat),1968
+24,99,Warren E. Burger,CJ,74 – 3,0.115,0.96,Richard M. Nixon (Republican),1969
+25,,"Clement Haynsworth, Jr.",,45 – 55,0.16,0.335,Richard M. Nixon (Republican),1969
+26,,G. Harrold Carswell,,45 – 51,0.04,0.111,Richard M. Nixon (Republican),1969
+27,100,Harry A. Blackmun,,94 – 0,0.115,0.97,Richard M. Nixon (Republican),1970
+28,101,"Lewis F. Powell, Jr.",,89 – 1,0.165,1,Richard M. Nixon (Republican),1972
+29,102,William Rehnquist,,68 – 26,0.045,0.885,Richard M. Nixon (Republican),1972
+30,103,John Paul Stevens,,98 – 0,0.25,0.96,Gerald Ford (Republican),1975
+31,104,Sandra Day O'Connor,,99 – 0,0.415,1,Ronald Reagan (Republican),1981
+32,102,William Rehnquist,CJ,65 – 33,0.045,0.4,Ronald Reagan (Republican),1986
+33,105,Antonin Scalia,,98 – 0,0,1,Ronald Reagan (Republican),1986
+34,,Robert H. Bork,,42 – 58,0.095,0.79,Ronald Reagan (Republican),1987
+35,,Douglas Ginsburg,,Withdrawn,0,0.32,Ronald Reagan (Republican),1987
+36,106,Anthony Kennedy,,97 – 0,0.365,0.89,Ronald Reagan (Republican),1988
+37,107,David Souter,,90 – 9,0.325,0.765,George H. W. Bush (Republican),1990
+38,108,Clarence Thomas,,52 – 48,0.16,0.415,George H. W. Bush (Republican),1991
+39,109,Ruth Bader Ginsburg,,96 – 3,0.68,1,Bill Clinton (Democrat),1993
+40,110,Stephen G. Breyer,,87 – 9,0.475,0.545,Bill Clinton (Democrat),1994
+41,111,John G. Roberts,CJ,78 – 22,0.12,0.97,George W. Bush (Republican),2005
+42,,Harriet E. Miers,,Withdrawn,0.27,0.36,George W. Bush (Republican),2005
+43,112,Samuel Alito,,58 – 42,0.1,0.81,George W. Bush (Republican),2006
+44,113,Sonia Sotomayor,,68 – 31,0.78,0.81,Barack Obama (Democrat),2009
+45,114,Elena Kagan,,63 – 37,0.73,0.73,Barack Obama (Democrat),2010
+46,115,Neil Gorsuch,,54 – 45,0.11,0.93,Donald Trump (Republican),2017
+47,116,Brett Kavanaugh,,50 – 48,0.07,0.4,Donald Trump (Republican),2018
+48,117,Amy Coney Barrett,,52-48,0.23,0.82,Donald Trump (Republican),2020

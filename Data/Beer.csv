@@ -1,0 +1,70 @@
+name,contqual,quality,price,calories,alcohol,craftbeer,bitter,malty,class
+brooklyn.brand,97,4,6.2399998,159,5.1999998,1,52.5,50.5,Craft Lager
+leinenkugels.red,92,4,4.79,160,5,1,41.5,48.5,Craft Lager
+sam.adams.boston.lager,90,4,5.96,160,4.9000001,1,54.5,48.5,Craft Lager
+george.killians.irish.red,79,3,4.6999998,162,4.9000001,1,37,48,Craft Lager
+red.wolf,72,3,4.1100001,157,5.5,1,35.5,41,Craft Lager
+henry.weinhards.private.reserve,66,2,3.8499999,151,4.9000001,1,35,24,Craft Lager
+sterling,65,2,2.52,155,4.6999998,1,33.5,25,Craft Lager
+legacy,58,2,5.46,135,5.0999999,1,51,46,Craft Lager
+dominion,54,2,6,162,5.4000001,1,53.5,29,Craft Lager
+lone.stae,51,2,3.71,142,4.8000002,1,29.5,24.5,Craft Lager
+abita.amber,50,2,6.6999998,146,4.4000001,1,43,47,Craft Lager
+yuengling.premium,37,1,4.9899998,148,4.3000002,1,33.5,24,Craft Lager
+berghoff.original,30,1,4.0999999,170,5.0999999,1,39,26.5,Craft Lager
+sam.adams.boston.ale,98,4,5.96,160,5,1,57,76,Craft Ale
+sierra.nevada,96,4,6.3099999,172,5.8000002,1,68.5,69,Craft Ale
+full.sail.amber,92,4,6.4200001,170,5.9000001,1,62,84,Craft Ale
+liberty,90,4,7.79,184,6,1,80.5,78,Craft Ale
+elk.mountain.amber,87,4,5.0500002,201,5.5999999,1,54.5,76,Craft Ale
+celis.pale.bock,85,4,5.2600002,155,4.6999998,1,51,78,Craft Ale
+petes.wicked,82,4,5.8400002,170,5.3000002,1,57,86,Craft Ale
+anchor.steam,76,3,7.2199998,158,4.9000001,1,63,71.5,Craft Ale
+dock.street.amber,71,3,6.1199999,159,5.4000001,1,52,68,Craft Ale
+bass,64,2,7.3699999,150,5.0999999,1,58,71,Craft Ale
+redhook.esb,62,2,6.4699998,177,5.5999999,1,63.5,70,Craft Ale
+new.amsterdam.new.york,54,2,6.7199998,146,3.7,1,49.5,74,Craft Ale
+catamount.amber,49,2,7.5900002,151,4.9000001,1,61,65,Craft Ale
+red.nrctar,44,1,6.3600001,163,5.3000002,1,61,77,Craft Ale
+old.detroit.amber,43,1,6.52,186,5.9000001,1,53,64,Craft Ale
+bridgeport.blue.heron.pale,27,1,6.3400002,168,5.9000001,1,55.5,78.5,Craft Ale
+gearys.pale,24,1,7.0999999,142,4.6999998,1,72,68,Craft Ale
+molson.golden,89,4,4.7800002,148,5,0,27,23,Imported Lager
+labbat.blue,83,4,4.6300001,150,5,0,27.5,21,Imported Lager
+fosters,74,3,5.4099998,140,5,0,29,24,Imported Lager
+kirin,72,3,6.3899999,150,5,0,29.5,26,Imported Lager
+dos.equis,72,3,5.52,160,4.8000002,0,29,34.5,Imported Lager
+heineken,72,3,6.3800001,160,5,0,34.5,20,Imported Lager
+corona.extra,59,2,5.6799998,148,4.5999999,0,16,22,Imported Lager
+st.pauli.girl,48,1,5.8200002,148,4.9000001,0,39,20.5,Imported Lager
+becks,39,1,5.8299999,148,4.3000002,0,38,21.5,Imported Lager
+pilsner.urquell,30,1,7.8000002,160,4.0999999,0,56.5,34,Imported Lager
+old.milwaukee,89,4,2.8199999,145,4.5,0,21,12,Regular or Ice Beer
+strohs,88,4,3.2,142,4.4000001,0,21,12,Regular or Ice Beer
+reddog,83,4,3.8299999,147,5,0,21,12,Regular or Ice Beer
+budweiser,83,4,4.02,148,4.9000001,0,21,12,Regular or Ice Beer
+icehous,82,4,3.8800001,149,5.5,0,21,12,Regular or Ice Beer
+molson.ice,80,4,4.79,155,5.5999999,0,21,12,Regular or Ice Beer
+michelob,79,3,4,159,5,0,21,12,Regular or Ice Beer
+bud.ice,78,3,3.95,148,5.5,0,21,12,Regular or Ice Beer
+busch,78,3,3.27,143,4.9000001,0,21,12,Regular or Ice Beer
+coors.original,76,3,4.02,137,4.5999999,0,21,12,Regular or Ice Beer
+genesse.cream.ale,71,3,3.26,153,4.5999999,0,21,12,Regular or Ice Beer
+miller.high.life,70,3,3.1900001,143,5,0,21,12,Regular or Ice Beer
+pabst.blue.ribbon,68,2,2.9000001,144,4.6999998,0,21,12,Regular or Ice Beer
+milwaukees.best,67,2,2.3599999,133,4.5999999,0,21,12,Regular or Ice Beer
+miller.genuine.draft,65,2,3.9300001,143,5,0,21,12,Regular or Ice Beer
+rolling.rock,41,1,4.25,143,4.5999999,0,21,12,Regular or Ice Beer
+michelob.light,80,4,4.0300002,134,4.3000002,0,18.5,7,Light Beer
+bud.light,77,3,4.02,110,4.1999998,0,18.5,7,Light Beer
+natural.light,73,3,2.8599999,110,4.1999998,0,18.5,7,Light Beer
+coors.light,68,2,4.0300002,105,4.1999998,0,18.5,7,Light Beer
+miller.light,60,2,4.02,96,4.5,0,18.5,7,Light Beer
+amstel.light,50,2,6.4899998,95,3.5999999,0,18.5,7,Light Beer
+sharps.na,41,1,3.24,58,.5,0,12,9,Nonalcoholic
+coors.cutter.na,40,1,3.5999999,82,.5,0,8,16,Nonalcoholic
+kingsbury.na,40,1,2.99,60,.5,0,10,7,Nonalcoholic
+old.milwaukee.na,39,1,2.75,72,.5,0,12.5,5,Nonalcoholic
+odouls.na,30,1,3.9000001,70,.5,0,8,7,Nonalcoholic
+kaiber.na,27,1,5.4200001,71,.5,0,31,14,Nonalcoholic
+clausthaler.na,24,1,5.6300001,96,.5,0,33,11,Nonalcoholic
